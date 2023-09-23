@@ -15,4 +15,3 @@ Hello, I am **Vedant Tewari**, a first year CS MS student at University of Wisco
 - 📫 How to reach me: vtewari@uwm.edu 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love ⚽️ 
--->
