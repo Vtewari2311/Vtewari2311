@@ -10,7 +10,7 @@ Hello, I am **Vedant Tewari**, a final year CS MS student at University of Wisco
 
 - 🔭 I’m currently working on Open Source, Compilers and Research 
 - 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on LLVM, GNU
+- 👯 I collaborate on LLVM, GNU
 - 💬 Ask me about (I am a Student 😀)
 - 📫 How to reach me: vtewari@uwm.edu 
 - 😄 Pronouns: He/Him
